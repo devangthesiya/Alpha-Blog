@@ -1,3 +1,3 @@
 # README
 
-This repository for a blog site.
+This repository is for a blog site.
